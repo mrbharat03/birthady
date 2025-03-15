@@ -12,7 +12,7 @@ const quotes = [
 
 // Load 67 images dynamically
 for (let i = 1; i <= 67; i++) {
-    images.push(`images/a${i}.jpg`);
+    images.push(`a${i}.jpg`);
 }
 
 let currentIndex = 0;
